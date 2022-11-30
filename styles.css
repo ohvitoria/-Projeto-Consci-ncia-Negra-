@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1080px;
+    display: flex;
+    align-items: stretch;
+    justify-content: left;
+}
+header{
+    background-color: aliceblue;
+    width: 100%;
+}
+.menu nav a{
+    color: black;
+    text-decoration: none;
+    padding-right: 100px;
+    font-size: large;
+}
+.nome {
+    font-size: medium;
+}
